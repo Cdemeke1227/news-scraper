@@ -56,8 +56,9 @@ What things you need to install the software and how to install them
 
 ## Getting Started
 
-To use the app just go to the site and type a search term in to he form input.
-[news-scraper](https://nytreactsearchv1.herokuapp.com/) 
+To use the app just go to the site and click the "Scrape New Articles" button.
+You can then save and comment on your saved articles.
+[news-scraper](https://news-scrape-mongo.herokuapp.com/) 
 
 ## Authors
 * **Christopher Demeke** - [Cdemeke1227](https://github.com/Cdemeke1227) / [Portfolio Link](https://christopher-demeke.herokuapp.com/)
