@@ -52,7 +52,7 @@ The package.json lists dependent node packages as listed below:
 
 What things you need to install the software and how to install them
 
-[Node JS] (https://nodejs.org/en/)
+[Node JS](https://nodejs.org/en/)
 
 ## Getting Started
 
